@@ -1,5 +1,5 @@
 # FirstXcodeProject
-使用Xcode建立一個ios專案“點擊顯示按鈕”
+使用Xcode建立一個ios專案“點擊按鈕後顯示訊息”
 
 教學概要：  
 1.使用Xcode建立一個Single View Application  
